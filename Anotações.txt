@@ -1,0 +1,2 @@
+Comando para adicionar arquivos localmente no GitBash: git add .
+Comando para adicionar arquivos duretamente no GitHub através GitBash: git commit -m "Inclusão de arquivo"
